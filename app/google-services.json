@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "352651294321",
+    "firebase_url": "https://callfarwarding-e279d.firebaseio.com",
+    "project_id": "callfarwarding-e279d",
+    "storage_bucket": "callfarwarding-e279d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352651294321:android:4a40ca503902f911734dd0",
+        "android_client_info": {
+          "package_name": "com.block.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352651294321-nii2o78n10sem406itr02o82qnqdac1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6QDwhYmdymIjPK8LaU7F5cI9YK5NbFRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352651294321-nii2o78n10sem406itr02o82qnqdac1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352651294321:android:c71b47d98bdbb771734dd0",
+        "android_client_info": {
+          "package_name": "com.block.voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352651294321-nii2o78n10sem406itr02o82qnqdac1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6QDwhYmdymIjPK8LaU7F5cI9YK5NbFRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352651294321-nii2o78n10sem406itr02o82qnqdac1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
